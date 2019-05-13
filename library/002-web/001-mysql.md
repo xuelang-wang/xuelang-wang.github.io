@@ -1,7 +1,7 @@
 ### 启动 My SQL 数据库
 
 ```
-cd D:\web\mysql-8.0.16\bin
+cd D:/web/mysql-8.0.16/bin
 net start mysql
 ```
 
