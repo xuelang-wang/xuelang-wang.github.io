@@ -1,5 +1,6 @@
 {
     "name":"笔记",
     "ver":"xuelang_wang",
+    "testing": true,
     "page-mounts": true
 }
