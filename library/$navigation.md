@@ -6,6 +6,10 @@
 
 ##### web
 - [mysql](?file=002-web/001-mysql "mysql")
+- [jekyll](?file=002-web/002-jekyll "jekyll")
 
 ##### Qt
 - [基本操作](?file=003-Qt/001-基本操作 "基本操作")
+
+##### c_c++
+- [cmake_make](?file=004-c_c++/001-cmake_make "cmake_make")
